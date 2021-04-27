@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+    <entry key="sql1">
+        <value>select * from %TABLE% %TEMP%</value>
+    </entry>
+</queries>
